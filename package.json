@@ -1,7 +1,7 @@
 {
   "name": "movies-series-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/MarMMcin/MoviesApp/",
+    "homepage": "https://marmmcin.io/MoviesApp/",
   "dependencies": {
     "axios": "^0.18.1",
     "node-sass": "^4.12.0",
