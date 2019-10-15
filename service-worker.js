@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MarMMcin/MoviesApp/precache-manifest.d07582ca9efa4d70fa8171a36ec02ac1.js"
+  "/MoviesApp/precache-manifest.ad00be0d6813b29f0b46b4270c16a207.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MarMMcin/MoviesApp/index.html", {
+workbox.routing.registerNavigationRoute("/MoviesApp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

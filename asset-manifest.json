@@ -1,13 +1,13 @@
 {
-  "main.css": "/MarMMcin/MoviesApp/static/css/main.af844e2c.chunk.css",
-  "main.js": "/MarMMcin/MoviesApp/static/js/main.c24cddde.chunk.js",
-  "main.js.map": "/MarMMcin/MoviesApp/static/js/main.c24cddde.chunk.js.map",
-  "static/js/1.aaa51877.chunk.js": "/MarMMcin/MoviesApp/static/js/1.aaa51877.chunk.js",
-  "static/js/1.aaa51877.chunk.js.map": "/MarMMcin/MoviesApp/static/js/1.aaa51877.chunk.js.map",
-  "runtime~main.js": "/MarMMcin/MoviesApp/static/js/runtime~main.90d63554.js",
-  "runtime~main.js.map": "/MarMMcin/MoviesApp/static/js/runtime~main.90d63554.js.map",
-  "static/css/main.af844e2c.chunk.css.map": "/MarMMcin/MoviesApp/static/css/main.af844e2c.chunk.css.map",
-  "index.html": "/MarMMcin/MoviesApp/index.html",
-  "precache-manifest.d07582ca9efa4d70fa8171a36ec02ac1.js": "/MarMMcin/MoviesApp/precache-manifest.d07582ca9efa4d70fa8171a36ec02ac1.js",
-  "service-worker.js": "/MarMMcin/MoviesApp/service-worker.js"
+  "main.css": "/MoviesApp/static/css/main.af844e2c.chunk.css",
+  "main.js": "/MoviesApp/static/js/main.af4317a6.chunk.js",
+  "main.js.map": "/MoviesApp/static/js/main.af4317a6.chunk.js.map",
+  "static/js/1.aaa51877.chunk.js": "/MoviesApp/static/js/1.aaa51877.chunk.js",
+  "static/js/1.aaa51877.chunk.js.map": "/MoviesApp/static/js/1.aaa51877.chunk.js.map",
+  "runtime~main.js": "/MoviesApp/static/js/runtime~main.73b0a586.js",
+  "runtime~main.js.map": "/MoviesApp/static/js/runtime~main.73b0a586.js.map",
+  "static/css/main.af844e2c.chunk.css.map": "/MoviesApp/static/css/main.af844e2c.chunk.css.map",
+  "index.html": "/MoviesApp/index.html",
+  "precache-manifest.ad00be0d6813b29f0b46b4270c16a207.js": "/MoviesApp/precache-manifest.ad00be0d6813b29f0b46b4270c16a207.js",
+  "service-worker.js": "/MoviesApp/service-worker.js"
 }
