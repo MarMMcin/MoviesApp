@@ -9,7 +9,7 @@ function Footer() {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/MarMMcin"
+          href="https://github.com/MarMMcin/MoviesApp"
         >
           <i className="fab fa-github"></i>
         </a>
